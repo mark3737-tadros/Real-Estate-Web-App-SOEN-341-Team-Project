@@ -1,2 +1,2 @@
-# Real Estate Web App SOEN 341 Team Projexct
+# Real Estate Web App SOEN 341 Team Project
  
